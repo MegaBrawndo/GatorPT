@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gator Physical Therapy</title>
-    <link>https://megabrawndo.github.io/GatorPT/</link>
+    <link>https://gatorpt.com/</link>
     <description>Recent content on Gator Physical Therapy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://megabrawndo.github.io/GatorPT/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gatorpt.com/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
